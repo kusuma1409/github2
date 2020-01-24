@@ -11,6 +11,9 @@ import UIKit
 class ViewController: UIViewController {
     
     var sravya = "hiiiii"
+    
+    
+    var kusuma = "love u"
 
     override func viewDidLoad() {
         super.viewDidLoad()
