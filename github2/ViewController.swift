@@ -14,6 +14,9 @@ class ViewController: UIViewController {
     
     
     var kusuma = "love u"
+    
+    
+    var anu = "hello"
 
     override func viewDidLoad() {
         super.viewDidLoad()
